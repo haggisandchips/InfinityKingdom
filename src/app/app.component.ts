@@ -257,7 +257,10 @@ export class AppComponent {
     {"question": "Niagara Falls borders to United states and?", "answer": "Canada"},
     {"question": "Which of the following bodily systems starts to work in a fetus while it is still in the womb?", "answer": "Circulatory"},
     {"question": "Who started the movement that led to the Olympic Games being held once in Athens in 1896, after an interval of 1500 years?", "answer": "Pierre de Coubertin"},
-    {"question": "In whose honor was the famous arc de triomphe in Paris built for?", "answer": "Napoleon Bonaparte"}
+    {"question": "In whose honor was the famous arc de triomphe in Paris built for?", "answer": "Napoleon Bonaparte"},
+    {"question": "On earth, most of Oceania is in the southern hemisphere", "answer": "Correct"},
+    {"question": "The Caspian Sea is the largest lake on earth", "answer": "Correct"},
+    {"question": "In which year of Norheim's history was the ruined Sovereign Tomb in the Forbidden Zone rebuilt", "answer": "1471"}
   ]
 
   protected filter = '';
