@@ -132,7 +132,7 @@ export class AppComponent {
     {"question": "Which of the following is not a Shadow Immortal ?", "answer": "Joan of Arc"},
     {"question": "Which of the following is a Wind Immortal ?", "answer": "Qin Emperor"},
     {"question": "What is Hammurabi's ultimate skill Hammurabi's?", "answer": "Final Judgment"},
-    {"question": "What is Balwind's ultimate skill?", "answer": "Hurricane"},
+    {"question": "What is Balwind's ultimate skill? (baldwin)", "answer": "Hurricane"},
     {"question": "Which Immortal's ultimate skill is Shadow Strike?", "answer": "Flavius Belisarius"},
     {"question": "Which Immortal's ultimate skill is Wither Realm?", "answer": "Bjorn"},
     {"question": "What troop type does Cleopatra Lead Cleopatra?", "answer": " Bowman"},
